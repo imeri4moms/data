@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "name": "data.imeri.ee",
+  "version": "1.0.0",
+  "author": "Sergey Seleznev <sergey.seleznev@mail.ee>",
+  "license": "MIT",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "front-matter": "^4.0.2",
+    "js-yaml": "^4.1.0"
+  }
+}

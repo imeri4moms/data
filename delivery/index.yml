@@ -1,0 +1,54 @@
+Baltics:
+  price: 5.9
+  countries:
+    EE: # Estonia
+      price: 0
+      code: 372
+    LV: 371 # Latvia
+    LT: 370 # Lithuania
+
+Europe:
+  price: 9.9
+  countries:
+    AU: 43 # Austria
+    AX: 35818 # Åland
+    BE: 32 # Belgium
+    BG: 359 # Bulgaria
+    BY: 375 # Belarus
+    CH: 41 # Switzerland
+    CY: 357 # Cyprus
+    CZ: 420 # Czech
+    DE: 49 # Germany
+    DK: 45 # Denmark
+    ES: 34 # Spain
+    FI: 358 # Finland
+    FR: 33 # France
+    GB: 44 # United Kingdom
+    GR: 30 # Greece
+    HR: 385 # Croatia
+    HU: 36 # Hungary
+    IE: 353 # Ireland
+    IS: 354 # Iceland
+    IT: 39 # Italy
+    LU: 352 # Luxembourg
+    MD: 373 # Moldova
+    MT: 356 # Malta
+    NL: 31 # Netherlands
+    NO: 47 # Norway
+    PL: 48 # Poland
+    PT: 351 # Portugal
+    RO: 40 # Romania
+    RU: 7 # Russia
+    SE: 46 # Sweden
+    SI: 386 # Slovenia
+    SK: 421 # Slovakia
+    UA: 380 # Ukraine
+
+America:
+  price: 19.9
+  countries:
+    US: 1 # United States
+    CA: null # Canada
+Other:
+  countries:
+    XX: null # other
