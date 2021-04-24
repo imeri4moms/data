@@ -1,0 +1,606 @@
+{
+  "dress-oversize-dried-flowers": {
+    "price": 79.9,
+    "images": [
+      "3004",
+      "3003",
+      "3002",
+      "3000",
+      "3001",
+      "3005"
+    ],
+    "sizes": {
+      "ONESIZE": {
+        "bust": "85-105",
+        "height": "162-178"
+      }
+    },
+    "title": {
+      "en": "Dress oversize",
+      "et": "Kleit oversize",
+      "ru": "Платье оверсайз"
+    },
+    "subtitle": {
+      "en": "dried flowers",
+      "et": "kuivlilled",
+      "ru": "сухоцветы"
+    }
+  },
+  "dress-oversize-cognac": {
+    "price": 74.9,
+    "images": [
+      "2013",
+      "2015",
+      "2014",
+      "2003",
+      "2002",
+      "2004",
+      "2005"
+    ],
+    "sizes": {
+      "ONESIZE": {
+        "bust": "85-105",
+        "height": "162-178"
+      }
+    },
+    "title": {
+      "en": "Dress oversize",
+      "et": "Kleit oversize",
+      "ru": "Платье оверсайз"
+    },
+    "subtitle": {
+      "en": "cognac",
+      "et": "konjak",
+      "ru": "коньяк"
+    }
+  },
+  "one-tone-set-cloudberry": {
+    "price": 79.9,
+    "images": [
+      "010",
+      "007",
+      "011",
+      "005",
+      "006"
+    ],
+    "sizes": {
+      "S": {
+        "bust": "82-88",
+        "hips": "86-93",
+        "height": "160-172"
+      },
+      "M": {
+        "bust": "89-95",
+        "hips": "94-101",
+        "height": "164-174"
+      },
+      "L": {
+        "bust": "96-104",
+        "hips": "102-109",
+        "height": "164-174"
+      }
+    },
+    "title": {
+      "en": "One-tone set",
+      "et": "Ühevärviline komplekt",
+      "ru": "Одноцветный костюм"
+    },
+    "subtitle": {
+      "en": "cloudberry",
+      "et": "murakas",
+      "ru": "морошка"
+    }
+  },
+  "one-tone-set-blueberry": {
+    "price": 59.9,
+    "priceOld": 79.9,
+    "images": [
+      "023",
+      "020",
+      "021",
+      "022",
+      "025"
+    ],
+    "sizes": {
+      "S": {
+        "bust": "82-88",
+        "hips": "86-93",
+        "height": "160-172"
+      },
+      "M": {
+        "bust": "89-95",
+        "hips": "94-101",
+        "height": "164-174"
+      },
+      "L": {
+        "bust": "96-104",
+        "hips": "102-109",
+        "height": "164-174"
+      }
+    },
+    "title": {
+      "en": "One-tone set",
+      "et": "Ühevärviline komplekt",
+      "ru": "Одноцветный костюм"
+    },
+    "subtitle": {
+      "en": "blueberry",
+      "et": "mustikas",
+      "ru": "черника"
+    }
+  },
+  "dress-oversize-anthracite": {
+    "price": 69.9,
+    "images": [
+      "1020",
+      "1027",
+      "1028",
+      "1030",
+      "1061",
+      "1065",
+      "1067"
+    ],
+    "sizes": {
+      "ONESIZE": {
+        "bust": "85-105",
+        "height": "162-178"
+      }
+    },
+    "title": {
+      "en": "Dress oversize",
+      "et": "Kleit oversize",
+      "ru": "Платье оверсайз"
+    },
+    "subtitle": {
+      "en": "anthracite",
+      "et": "antratsiit",
+      "ru": "антрацит"
+    }
+  },
+  "dress-oversize-bordeaux": {
+    "price": 69.9,
+    "images": [
+      "1198",
+      "1152",
+      "1163",
+      "1175",
+      "1182",
+      "1181"
+    ],
+    "sizes": {
+      "ONESIZE": {
+        "bust": "85-105",
+        "height": "162-178"
+      }
+    },
+    "title": {
+      "en": "Dress oversize",
+      "et": "Kleit oversize",
+      "ru": "Платье оверсайз"
+    },
+    "subtitle": {
+      "en": "bordeaux",
+      "et": "bordoo",
+      "ru": "бордо"
+    }
+  },
+  "sweatshirt-yellow-ocher": {
+    "price": 49.9,
+    "images": [
+      "061",
+      "060",
+      "058",
+      "059"
+    ],
+    "sizes": {
+      "S": {
+        "bust": "78-85",
+        "height": "160-172"
+      },
+      "M": {
+        "bust": "86-93",
+        "height": "166-178"
+      },
+      "L": {
+        "bust": "94-104",
+        "height": "166-178"
+      }
+    },
+    "title": {
+      "en": "Sweatshirt",
+      "et": "Pusa",
+      "ru": "Свитшот"
+    },
+    "subtitle": {
+      "en": "yellow ocher",
+      "et": "ookerkollane",
+      "ru": "желтая охра"
+    }
+  },
+  "sweatshirt-ashy-gray": {
+    "price": 49.9,
+    "images": [
+      "051",
+      "049",
+      "046",
+      "047",
+      "048"
+    ],
+    "sizes": {
+      "S": {
+        "bust": "78-85",
+        "height": "160-172"
+      },
+      "M": {
+        "bust": "86-93",
+        "height": "166-178"
+      },
+      "L": {
+        "bust": "94-104",
+        "height": "166-178"
+      }
+    },
+    "title": {
+      "en": "Sweatshirt",
+      "et": "Pusa",
+      "ru": "Свитшот"
+    },
+    "subtitle": {
+      "en": "ashy gray",
+      "et": "tuhkhall",
+      "ru": "пепельно-серый"
+    }
+  },
+  "sweatshirt-bordeaux": {
+    "price": 49.9,
+    "images": [
+      "1232",
+      "1234",
+      "1226",
+      "1227",
+      "1225"
+    ],
+    "sizes": {
+      "S": {
+        "bust": "78-85",
+        "height": "160-172"
+      },
+      "M": {
+        "bust": "86-93",
+        "height": "166-178"
+      },
+      "L": {
+        "bust": "94-104",
+        "height": "166-178"
+      }
+    },
+    "title": {
+      "en": "Sweatshirt",
+      "et": "Pusa",
+      "ru": "Свитшот"
+    },
+    "subtitle": {
+      "en": "bordeaux",
+      "et": "bordoo",
+      "ru": "бордо"
+    }
+  },
+  "one-tone-set-ashy-gray": {
+    "price": 89.9,
+    "images": [
+      "050",
+      "044",
+      "045",
+      "047",
+      "048"
+    ],
+    "sizes": {
+      "S": {
+        "bust": "82-88",
+        "hips": "86-93",
+        "height": "160-172"
+      },
+      "M": {
+        "bust": "89-95",
+        "hips": "94-101",
+        "height": "166-178"
+      },
+      "L": {
+        "bust": "96-104",
+        "hips": "102-109",
+        "height": "166-178"
+      }
+    },
+    "title": {
+      "en": "One-tone set",
+      "et": "Ühevärviline komplekt",
+      "ru": "Одноцветный костюм"
+    },
+    "subtitle": {
+      "en": "cloudy gray",
+      "et": "pilvehall",
+      "ru": "серое облачко"
+    }
+  },
+  "one-tone-set-cloudy-gray": {
+    "price": 69.9,
+    "priceOld": 89.9,
+    "images": [
+      "122",
+      "126",
+      "127",
+      "128",
+      "130",
+      "131"
+    ],
+    "sizes": {
+      "S": {
+        "bust": "82-88",
+        "hips": "86-93",
+        "height": "160-172"
+      },
+      "M": {
+        "bust": "89-95",
+        "hips": "94-101",
+        "height": "164-174"
+      },
+      "L": {
+        "bust": "96-104",
+        "hips": "102-109",
+        "height": "164-174"
+      }
+    },
+    "title": {
+      "en": "One-tone set",
+      "et": "Ühevärviline komplekt",
+      "ru": "Одноцветный костюм"
+    },
+    "subtitle": {
+      "en": "ashy gray",
+      "et": "tuhkhall",
+      "ru": "пепельно-серый"
+    }
+  },
+  "one-tone-set-yellow-ocher": {
+    "price": 89.9,
+    "images": [
+      "064",
+      "055",
+      "056",
+      "058",
+      "059"
+    ],
+    "sizes": {
+      "S": {
+        "bust": "82-88",
+        "hips": "86-93",
+        "height": "160-172"
+      },
+      "M": {
+        "bust": "89-95",
+        "hips": "94-101",
+        "height": "164-174"
+      },
+      "L": {
+        "bust": "96-104",
+        "hips": "102-109",
+        "height": "164-174"
+      }
+    },
+    "title": {
+      "en": "One-tone set",
+      "et": "Ühevärviline komplekt",
+      "ru": "Одноцветный костюм"
+    },
+    "subtitle": {
+      "en": "yellow ocher",
+      "et": "ookerkollane",
+      "ru": "желтая охра"
+    }
+  },
+  "two-tone-set-berry-drink": {
+    "price": 89.9,
+    "images": [
+      "115",
+      "116",
+      "118",
+      "119",
+      "120"
+    ],
+    "sizes": {
+      "S": {
+        "bust": "82-88",
+        "hips": "86-93",
+        "height": "160-172"
+      },
+      "M": {
+        "bust": "89-95",
+        "hips": "94-101",
+        "height": "164-174"
+      },
+      "L": {
+        "bust": "96-104",
+        "hips": "102-109",
+        "height": "164-174"
+      }
+    },
+    "title": {
+      "en": "Two-tone set",
+      "et": "Kahevärviline komplekt",
+      "ru": "Двухцветный костюм"
+    },
+    "subtitle": {
+      "en": "berry drink",
+      "et": "marjajook",
+      "ru": "ягодный морс"
+    }
+  },
+  "two-tone-set-coral-haze": {
+    "price": 89.9,
+    "images": [
+      "113",
+      "103",
+      "104",
+      "105",
+      "107",
+      "108"
+    ],
+    "sizes": {
+      "S": {
+        "bust": "82-88",
+        "hips": "86-93",
+        "height": "160-172"
+      },
+      "M": {
+        "bust": "89-95",
+        "hips": "94-101",
+        "height": "164-174"
+      },
+      "L": {
+        "bust": "96-104",
+        "hips": "102-109",
+        "height": "164-174"
+      }
+    },
+    "title": {
+      "en": "Two-tone set",
+      "et": "Kahevärviline komplekt",
+      "ru": "Двухцветный костюм"
+    },
+    "subtitle": {
+      "en": "coral haze",
+      "et": "mahekorall",
+      "ru": "коралловая дымка"
+    }
+  },
+  "two-tone-set-caffe-latte": {
+    "price": 89.9,
+    "images": [
+      "080",
+      "079",
+      "081",
+      "082"
+    ],
+    "sizes": {
+      "S": {
+        "bust": "82-88",
+        "hips": "86-93",
+        "height": "160-172"
+      },
+      "M": {
+        "bust": "89-95",
+        "hips": "94-101",
+        "height": "164-174"
+      },
+      "L": {
+        "bust": "96-104",
+        "hips": "102-109",
+        "height": "164-174"
+      }
+    },
+    "title": {
+      "en": "Two-tone set",
+      "et": "Kahevärviline komplekt",
+      "ru": "Двухцветный костюм"
+    },
+    "subtitle": {
+      "en": "caffè latte",
+      "et": "piimakohv",
+      "ru": "кофе с молоком"
+    }
+  },
+  "one-tone-set-dusty-rose": {
+    "hide": true,
+    "price": 89.9,
+    "images": [
+      "037",
+      "033",
+      "034",
+      "030",
+      "031",
+      "029"
+    ],
+    "sizes": {
+      "S": {
+        "bust": "82-88",
+        "hips": "86-93",
+        "height": "160-172"
+      },
+      "M": {
+        "bust": "89-95",
+        "hips": "94-101",
+        "height": "164-174"
+      },
+      "L": {
+        "bust": "96-104",
+        "hips": "102-109",
+        "height": "164-174"
+      }
+    },
+    "title": {
+      "en": "One-tone set",
+      "et": "Ühevärviline komplekt",
+      "ru": "Одноцветный костюм"
+    },
+    "subtitle": {
+      "en": "dusty rose",
+      "et": "vanaroosa",
+      "ru": "пыльная роза"
+    }
+  },
+  "dress-oversize-cloudy-gray": {
+    "hide": true,
+    "price": 64.9,
+    "images": [
+      "1315",
+      "1281",
+      "1313",
+      "1298",
+      "1305"
+    ],
+    "sizes": {
+      "ONESIZE": {
+        "bust": "85-105",
+        "height": "160-176"
+      }
+    },
+    "title": {
+      "en": "Dress oversize",
+      "et": "Kleit oversize",
+      "ru": "Платье оверсайз"
+    },
+    "subtitle": {
+      "en": "cloudy gray",
+      "et": "pilvehall",
+      "ru": "серое облачко"
+    }
+  },
+  "dress-oversize-leaves": {
+    "hide": true,
+    "price": 74.9,
+    "images": [
+      "2001",
+      "2012",
+      "2016",
+      "2006",
+      "2007",
+      "2011"
+    ],
+    "sizes": {
+      "ONESIZE": {
+        "bust": "85-105",
+        "height": "162-178"
+      }
+    },
+    "title": {
+      "en": "Dress oversize",
+      "et": "Kleit oversize",
+      "ru": "Платье оверсайз"
+    },
+    "subtitle": {
+      "en": "leaves",
+      "et": "lehed",
+      "ru": "листья"
+    }
+  }
+}

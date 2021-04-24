@@ -1,0 +1,429 @@
+{
+  "regions": {
+    "Baltics": {
+      "title": {
+        "en": "Baltics",
+        "et": "Baltimaad",
+        "ru": "Прибалтика"
+      },
+      "countries": [
+        "EE",
+        "LV",
+        "LT"
+      ]
+    },
+    "Europe": {
+      "title": {
+        "en": "Europe",
+        "et": "Euroopa",
+        "ru": "Европа и СНГ"
+      },
+      "countries": [
+        "AU",
+        "AX",
+        "BE",
+        "BG",
+        "BY",
+        "CH",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "HR",
+        "HU",
+        "IE",
+        "IS",
+        "IT",
+        "LU",
+        "MD",
+        "MT",
+        "NL",
+        "NO",
+        "PL",
+        "PT",
+        "RO",
+        "RU",
+        "SE",
+        "SI",
+        "SK",
+        "UA"
+      ]
+    },
+    "America": {
+      "title": {
+        "en": "North America",
+        "et": "Ameerika",
+        "ru": "Северная Америка"
+      },
+      "countries": [
+        "US",
+        "CA"
+      ]
+    },
+    "Other": {
+      "title": {
+        "en": "Other",
+        "et": "Teised",
+        "ru": "Другие"
+      },
+      "countries": [
+        "XX"
+      ]
+    }
+  },
+  "countries": {
+    "EE": {
+      "title": {
+        "en": "Estonia",
+        "et": "Estonia",
+        "ru": "Эстония"
+      },
+      "price": 0,
+      "code": 372
+    },
+    "LV": {
+      "title": {
+        "en": "Latvia",
+        "et": "Läti",
+        "ru": "Латвия"
+      },
+      "price": 5.9,
+      "code": 371
+    },
+    "LT": {
+      "title": {
+        "en": "Lithuania",
+        "et": "Leedu",
+        "ru": "Литва"
+      },
+      "price": 5.9,
+      "code": 370
+    },
+    "AU": {
+      "title": {
+        "en": "Austria",
+        "et": "Austria",
+        "ru": "Австрия"
+      },
+      "price": 9.9,
+      "code": 43
+    },
+    "AX": {
+      "title": {
+        "en": "Åland",
+        "et": "Ahvenamaa",
+        "ru": "Аландские острова"
+      },
+      "price": 9.9,
+      "code": 35818
+    },
+    "BE": {
+      "title": {
+        "en": "Belgium",
+        "et": "Belgia",
+        "ru": "Бельгия"
+      },
+      "price": 9.9,
+      "code": 32
+    },
+    "BG": {
+      "title": {
+        "en": "Bulgaria",
+        "et": "Bulgaaria",
+        "ru": "Болгария"
+      },
+      "price": 9.9,
+      "code": 359
+    },
+    "BY": {
+      "title": {
+        "en": "Belarus",
+        "et": "Valgevene",
+        "ru": "Беларусь"
+      },
+      "price": 9.9,
+      "code": 375
+    },
+    "CH": {
+      "title": {
+        "en": "Switzerland",
+        "et": "Šveits",
+        "ru": "Швейцария"
+      },
+      "price": 9.9,
+      "code": 41
+    },
+    "CY": {
+      "title": {
+        "en": "Cyprus",
+        "et": "Küpros",
+        "ru": "Кипр"
+      },
+      "price": 9.9,
+      "code": 357
+    },
+    "CZ": {
+      "title": {
+        "en": "Czech Republic",
+        "et": "Tšehhi Vabariik",
+        "ru": "Чехия"
+      },
+      "price": 9.9,
+      "code": 420
+    },
+    "DE": {
+      "title": {
+        "en": "Germany",
+        "et": "Saksamaa",
+        "ru": "Германия"
+      },
+      "price": 9.9,
+      "code": 49
+    },
+    "DK": {
+      "title": {
+        "en": "Denmark",
+        "et": "Taani",
+        "ru": "Дания"
+      },
+      "price": 9.9,
+      "code": 45
+    },
+    "ES": {
+      "title": {
+        "en": "Spain",
+        "et": "Hispaania",
+        "ru": "Испания"
+      },
+      "price": 9.9,
+      "code": 34
+    },
+    "FI": {
+      "title": {
+        "en": "Finland",
+        "et": "Soome",
+        "ru": "Финляндия"
+      },
+      "price": 9.9,
+      "code": 358
+    },
+    "FR": {
+      "title": {
+        "en": "France",
+        "et": "Prantsusmaa",
+        "ru": "Франция"
+      },
+      "price": 9.9,
+      "code": 33
+    },
+    "GB": {
+      "title": {
+        "en": "Great Britain",
+        "et": "Suurbritannia",
+        "ru": "Великобритания"
+      },
+      "price": 9.9,
+      "code": 44
+    },
+    "GR": {
+      "title": {
+        "en": "Greece",
+        "et": "Kreeka",
+        "ru": "Греция"
+      },
+      "price": 9.9,
+      "code": 30
+    },
+    "HR": {
+      "title": {
+        "en": "Croatia",
+        "et": "Horvaatia",
+        "ru": "Хорватия"
+      },
+      "price": 9.9,
+      "code": 385
+    },
+    "HU": {
+      "title": {
+        "en": "Hungary",
+        "et": "Ungari",
+        "ru": "Венгрия"
+      },
+      "price": 9.9,
+      "code": 36
+    },
+    "IE": {
+      "title": {
+        "en": "Ireland",
+        "et": "Iirimaa",
+        "ru": "Ирландия"
+      },
+      "price": 9.9,
+      "code": 353
+    },
+    "IS": {
+      "title": {
+        "en": "Iceland",
+        "et": "Island",
+        "ru": "Исландия"
+      },
+      "price": 9.9,
+      "code": 354
+    },
+    "IT": {
+      "title": {
+        "en": "Italy",
+        "et": "Itaalia",
+        "ru": "Италия"
+      },
+      "price": 9.9,
+      "code": 39
+    },
+    "LU": {
+      "title": {
+        "en": "Luxembourg",
+        "et": "Luksemburg",
+        "ru": "Люксембург"
+      },
+      "price": 9.9,
+      "code": 352
+    },
+    "MD": {
+      "title": {
+        "en": "Moldova",
+        "et": "Moldova",
+        "ru": "Молдова"
+      },
+      "price": 9.9,
+      "code": 373
+    },
+    "MT": {
+      "title": {
+        "en": "Malta",
+        "et": "Malta",
+        "ru": "Мальта"
+      },
+      "price": 9.9,
+      "code": 356
+    },
+    "NL": {
+      "title": {
+        "en": "Netherlands",
+        "et": "Holland",
+        "ru": "Нидерланды"
+      },
+      "price": 9.9,
+      "code": 31
+    },
+    "NO": {
+      "title": {
+        "en": "Norway",
+        "et": "Norra",
+        "ru": "Норвегия"
+      },
+      "price": 9.9,
+      "code": 47
+    },
+    "PL": {
+      "title": {
+        "en": "Poland",
+        "et": "Poola",
+        "ru": "Польша"
+      },
+      "price": 9.9,
+      "code": 48
+    },
+    "PT": {
+      "title": {
+        "en": "Portugal",
+        "et": "Portugal",
+        "ru": "Португалия"
+      },
+      "price": 9.9,
+      "code": 351
+    },
+    "RO": {
+      "title": {
+        "en": "Romania",
+        "et": "Rumeenia",
+        "ru": "Румыния"
+      },
+      "price": 9.9,
+      "code": 40
+    },
+    "RU": {
+      "title": {
+        "en": "Russia",
+        "et": "Venemaa",
+        "ru": "Россия"
+      },
+      "price": 9.9,
+      "code": 7
+    },
+    "SE": {
+      "title": {
+        "en": "Sweden",
+        "et": "Rootsi",
+        "ru": "Швеция"
+      },
+      "price": 9.9,
+      "code": 46
+    },
+    "SI": {
+      "title": {
+        "en": "Slovenia",
+        "et": "Sloveenia",
+        "ru": "Словения"
+      },
+      "price": 9.9,
+      "code": 386
+    },
+    "SK": {
+      "title": {
+        "en": "Slovakia",
+        "et": "Slovakkia",
+        "ru": "Словакия"
+      },
+      "price": 9.9,
+      "code": 421
+    },
+    "UA": {
+      "title": {
+        "en": "Ukraine",
+        "et": "Ukraina",
+        "ru": "Украина"
+      },
+      "price": 9.9,
+      "code": 380
+    },
+    "US": {
+      "title": {
+        "en": "United States",
+        "et": "Ühendriigid",
+        "ru": "США"
+      },
+      "price": 19.9,
+      "code": 1
+    },
+    "CA": {
+      "title": {
+        "en": "Canada",
+        "et": "Kanada",
+        "ru": "Канада"
+      },
+      "price": 19.9
+    },
+    "XX": {
+      "title": {
+        "en": "Other country",
+        "et": "Teine ​​riik",
+        "ru": "Другая страна"
+      }
+    }
+  }
+}
